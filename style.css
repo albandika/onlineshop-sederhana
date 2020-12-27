@@ -1,0 +1,69 @@
+body {margin: 0; font-family: 'Gill Sans';}
+
+.header {margin: 40px; color: blue; background: black; height: 70px;}
+
+.logo {float: left;}
+
+.logo img{height: 100%;}
+
+.navbar {float: right;}
+
+.navbar ul{list-style: none; padding-top: 10px;}
+
+.navbar ul li{display: inline; margin: 50px;}
+
+.navbar ul li a{text-decoration: none; color: whitesmoke; }
+
+.navbar ul li a:hover {border-bottom: 2px solid white;}
+
+.gambar {width: 90%; display: grid; grid-template-columns: 5fr 5fr 5fr 5fr; margin:auto;}
+
+.gambar .foto img{width: 200px;}
+
+.foto {border: 1px solid black; margin:10px; text-align: center; }
+
+.foto a{border: 3px solid black; padding:10px; color: white; background: grey; text-decoration: none; border-radius: 20px; cursor: pointer;}
+
+.sosmed {width: 45%; display: grid; grid-template-columns: 7fr 6fr 4fr 2fr; margin-left: 620px; margin-top: 20px ;}
+
+.sosmed .wa img{width: 50px;}
+
+.sosmed .instagram img{width: 160px;}
+
+.sosmed .line img {width: 48px;}
+
+.footer {text-align: center; margin: 20px; color: white; background: black; height: 70px;}
+
+.footer p{padding-top:25px;}
+
+.footer a{text-decoration: none; color: white; }
+
+.display {border: 1px solid white; margin:10px; text-align: center; }
+
+.display .d2 a {border: 3px solid black; padding:10px; color: white; background: grey; text-decoration: none; border-radius: 20px; cursor: pointer; float: initial;}
+
+.display .d2 h1 {color: white;}
+
+.display .d2 img{width: 70%; margin-left: 200px;}
+
+.display .d1 img {width: 100px;}
+
+.product { margin:1px; text-align: center; }
+
+.purchase {display: grid; grid-template-columns: 5fr 5fr ; margin-left: 4px; text-align: center;}
+
+.purchase .p1 img {width: 600px;}
+
+.purchase {border: 8px solid black; margin:100px; margin-top:1px ; }
+
+.button {color:  black; text-align:center; margin-top: 1px;}
+
+.button a{border: 3px solid black; padding:10px; color:white; background: green; text-decoration: none; border-radius: 20px; cursor: pointer; }
+
+.end {text-align: center;}
+
+.end h1 {margin-top: 250px;}
+
+.end h1 {font-size: 60px; }
+
+.end h2 {margin-bottom: 380px;}
